@@ -2,7 +2,9 @@
 
 :root{
     --primarycolor :#8B5CF6;
+    --offwhite: #E5E7EB;
     --darkcolor: #6B7280;
+    
 }
     
     
@@ -100,5 +102,26 @@ hr {
 .hero .hero-heading {
     padding-top: 1rem ;
    color: var(--darkcolor);
+} 
+
+
+/* section  */
+
+.section {
+    padding: 2rem;
 }
+
+.section h3 {
+
+    text-align: center;
+}
+
+
+.ow {
+    background-color: var(--offwhite);
+}
+
+/* footer */
+
+
 
